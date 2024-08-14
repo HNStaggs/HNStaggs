@@ -6,14 +6,14 @@ I'm a data analyst and project manager at the US Department of Veterans Affairs 
 ## Skills
 - **Programming Languages**: Python, R, SQL
 - **Frameworks & Libraries**: ScikitLearn, SQLite, NLTK, Matplotlib.pyplot, Seaborn, Tidyverse, ggplot2   
-- **Tools**: Git, MySQL Workbench, R Studio, Jupyter Notebook, Tableau, PowerBI
+- **Tools**: Git, MySQL Workbench, R Studio, Jupyter Notebook, Tableau, PowerBI, Streamlit
 
 ## Projects
 - [**Long COVID**](https://github.com/HNStaggs/Long-COVID) - Developed and evaluated models using 50 biopsychosocial features to classify long COVID diagnosis and predict cognitive complaint severity. Analyzed long COVID biotypes using k-means clustering of symptom profiles.
 - [**Gender Gaps in Clinical Trials**](https://github.com/HNStaggs/Clinical-Trial-Gender-Gaps) - Use natural language processing (NLP) of registered clinical trial descriptions (clinicaltrials.gov API) to assess differences in sex representation using classification model coefficients.
 - [**Participant Dropout Factors**](https://github.com/HNStaggs/Participant-Dropout-Classification) - Created a decision tree classifier to identify demographics of participants likely to drop out of online research.
 - [**COVID Economic Database**](https://github.com/HNStaggs/COVID_Economic_Database) - Created an ETL pipeline of covid-related, global, macroeconomic data.
-- [**Pharmaceutical Insights**](https://github.com/HNStaggs/Pharma-Insights) - Created an ETL pipeline of adverse drug event information to create a database that supports machine learning objectives and dashboards.
+- [**Pharmaceutical Drug Surveillance**](https://github.com/teamlunarlanding/Pharma-Drug-Surveillance) - Created an ETL pipeline of adverse drug event information to create a database that supports machine learning objectives, dashboarding, and model deployment via Streamlit application.
 - [**Political Discourse Sentiment Analysis**](https://github.com/HNStaggs/Political-Discourse-NLP-AWS) - Leveraged AWS cloud computing and natural language processing to capture public sentiment of presidential candidates from Twitter tweets and New York Times article comments. 
 
 ## Education
@@ -26,7 +26,7 @@ I'm a data analyst and project manager at the US Department of Veterans Affairs 
 - **LinkedIn**: (https://www.linkedin.com/in/halee-staggs/)
   
 ## Interests
-- Professional Interests: Machine learning, reinforcement learning, computer vision
+- Professional Interests: Machine learning, reinforcement learning, computer vision, data engineering
 - Hobbies: Weight lifting, pilates, traveling, spending time with my dog, Luna :)
 
 ## Let's Connect!
