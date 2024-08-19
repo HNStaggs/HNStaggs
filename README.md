@@ -26,7 +26,7 @@ I'm a data analyst and project manager at the US Department of Veterans Affairs 
 - **LinkedIn**: (https://www.linkedin.com/in/halee-staggs/)
   
 ## Interests
-- Professional Interests: Machine learning, reinforcement learning, computer vision, data engineering
+- Professional Interests: Machine learning, data engineering
 - Hobbies: Weight lifting, pilates, traveling, spending time with my dog, Luna :)
 
 ## Let's Connect!
