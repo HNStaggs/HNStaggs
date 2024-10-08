@@ -5,7 +5,7 @@ I'm a data scientist, AI consultant, and project manager. I am passionate about 
 
 ## Skills
 - **Programming Languages**: Python, R, SQL
-- **Frameworks & Libraries**: ScikitLearn, SQLite, NLTK, Matplotlib.pyplot, Seaborn, Tidyverse, ggplot2   
+- **Frameworks & Libraries**: TensorFlow, ScikitLearn, SQLite, NLTK, Matplotlib.pyplot, Seaborn, Tidyverse, ggplot2   
 - **Tools**: Git, MySQL Workbench, R Studio, Jupyter Notebook, Tableau, PowerBI, Streamlit
 
 ## Projects
