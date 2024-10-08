@@ -1,7 +1,7 @@
 # Hi there, I'm Halee Staggs, welcome to my Git 👋
 
 ## About Me
-I'm a data analyst and project manager at the US Department of Veterans Affairs in Research & Development. I am passionate about asking creative questions and using big data to solve problems and reveal insights. I find it intriguing that human behavior and processes can be explained with algorithms. I am currently passionate about the new frontier of implementing AI solutions in healthcare and research! 
+I'm a data scientist, AI consultant, and project manager. I am passionate about asking creative questions and using big data to solve problems and reveal insights. I find it intriguing that human behavior and processes can be explained with algorithms. I am currently passionate about the new frontier of implementing AI solutions in healthcare and research! 
 
 ## Skills
 - **Programming Languages**: Python, R, SQL
