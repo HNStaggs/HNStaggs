@@ -5,8 +5,8 @@ I'm a data scientist, AI consultant, and project manager. I am passionate about 
 
 ## Skills
 - **Programming Languages**: Python, R, SQL
-- **Frameworks & Libraries**: TensorFlow, ScikitLearn, SQLite, NLTK, Matplotlib.pyplot, Seaborn, Tidyverse, ggplot2   
-- **Tools**: Git, MySQL Workbench, R Studio, Jupyter Notebook, Tableau, PowerBI, Streamlit
+- **Frameworks & Libraries**: PyTorch, Keras, TensorFlow, ScikitLearn, SQLite, NLTK, Matplotlib.pyplot, Seaborn, Tidyverse, Caret, Car, e1071, ggplot2   
+- **Tools**: Git, MySQL Workbench, R Studio, Jupyter Notebook, Tableau, Power BI, Streamlit, SAS, SPSS
 
 ## Projects
 - [**Long COVID**](https://github.com/HNStaggs/Long-COVID) - Developed and evaluated models using 50 biopsychosocial features to classify long COVID diagnosis and predict cognitive complaint severity. Analyzed long COVID biotypes using k-means clustering of symptom profiles.
@@ -22,7 +22,7 @@ I'm a data scientist, AI consultant, and project manager. I am passionate about 
 - **Associate of Arts** in Social and Behavioral Sciences, Moorpark College
 
 ## Contact Me
-- **Email**: halee.staggs@va.gov
+- **Email**: hstaggs93@gmail.com
 - **LinkedIn**: (https://www.linkedin.com/in/halee-staggs/)
   
 ## Interests
@@ -30,7 +30,7 @@ I'm a data scientist, AI consultant, and project manager. I am passionate about 
 - Hobbies: Weight lifting, pilates, traveling, spending time with my dog, Luna :)
 
 ## Let's Connect!
-Feel free to reach out if you want to collaborate on a project, contribute to any of my repositories, or just want to connect!
+Feel free to reach out if you want to collaborate on a project or just want to connect!
 
 ---
 
