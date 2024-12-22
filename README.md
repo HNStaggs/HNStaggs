@@ -5,6 +5,7 @@ I'm a full stack AI developer, data scientist, and project manager. I am passion
 
 ## Skills
 - **Programming Languages**: Python, R, SQL
+- **AI Techniques**: LLM/SLM Fine Tuning, RAG, Synthetic Data Generation (VAE), Recommender Systems, Machine Learning
 - **Libraries**: PyTorch, Keras, TensorFlow, ScikitLearn, SQAlchemy, NLTK, Tidyverse, Caret, Car, e1071   
 - **Tools**: Git, MySQL Workbench, R Studio, Jupyter Notebook
 - **Statistics**: SAS, SPSS
