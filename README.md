@@ -11,7 +11,7 @@ I'm a full stack AI developer, data scientist, and project manager. I am passion
 - **Statistics**: SAS, SPSS
 - **Data Vis/Dashboards**: Tableau, Power BI, R Shiny
 - **Front End**: Streamlit, PyQt5
-- **Cloud**: AWS, GCP, Microsoft Azure
+- **Cloud**: AWS, Microsoft Azure
 - **Back End**: Database Engineering, ETL, APIs
 - **Replicability & Full Stack Integration**: Docker, Kubernetes, Terraform, Packer
 
