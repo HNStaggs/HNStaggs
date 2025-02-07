@@ -18,7 +18,8 @@ I'm a full stack AI developer, data scientist, and project manager. I am passion
 ## Projects
 - [**RAG Codebase ChatBot**](https://github.com/HNStaggs/CodeHelperRAG) - A generative agent offering code suggestions based on in-house documentation using vector retrieval.
 - [**Translator App**](https://github.com/HNStaggs/Translate-Demo) - Streamlit deployed app allowing document upload, auto translation, and download in fifteen languages.
-- [**Patient Risk App**](https://github.com/teamlunarlanding/Pharma-Drug-Surveillance) - Deployed random forest model in an application that predicts patient risk of adverse outcomes from pharmaceutical drugs.  
+- [**Patient Risk App**](https://github.com/teamlunarlanding/Pharma-Drug-Surveillance) - Deployed random forest model in an application that predicts patient risk of adverse outcomes from pharmaceutical drugs.
+- [**Participant Dropout Classification**](https://github.com/teamlunarlanding/Participant-Dropout-Classification) - Classified drop out using demographic features. Identify subpopulations likely to drop out of data collection prematurely. 
 
 ## Education
 - **Master of Science** in Applied Data Science, University of San Diego
