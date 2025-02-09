@@ -36,4 +36,4 @@ Feel free to reach out if you want to collaborate on a project or just want to c
 
 ---
 
-# *"You cannot get clean in a dirty shower."* 
+## *"You cannot get clean in a dirty shower."* 
