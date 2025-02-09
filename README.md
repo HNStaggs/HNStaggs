@@ -25,11 +25,11 @@ I'm a full stack AI developer, data scientist, and project manager. I am passion
 - **Bachelor of Science** in Psychology/Biological Science, San Jose State University
 - **Associate of Arts** in Social and Behavioral Sciences, Moorpark College
 
+## Interests
+- Weight lifting, traveling, painting, sewing, spending time with my dog, Luna :)
+
 ## Contact Me
 - **LinkedIn**: (https://www.linkedin.com/in/halee-staggs/)
-  
-## Interests
-- Weight lifting, traveling, spending time with my dog, Luna :)
 
 ## Let's Connect!
 Feel free to reach out if you want to collaborate on a project or just want to connect!
