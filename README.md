@@ -5,8 +5,8 @@ I'm a full stack AI developer, data scientist, and project manager with a backgr
 
 ## Skills
 - **Programming Languages**: Python, R, SQL
-- **AI Techniques**: LLMs/SLMs, Fine Tuning, RAG, Synthetic Data Generation (VAE), Recommender Systems, Machine Learning
-- **Libraries**: PyTorch, Keras, TensorFlow, ScikitLearn, SQAlchemy, NLTK, Tidyverse, Caret, Car, e1071   
+- **AI/ML Techniques**: NLP, LLMs/SLMs, Fine Tuning, RAG, VAE, Recommenders, Supervised and Unsupervised methods
+- **Libraries**: PyTorch, Keras, TensorFlow, ScikitLearn, SQAlchemy, NLTK, Tidyverse, Caret, Car, nnet, e1071   
 - **Tools**: Git, VS Code, MySQL Workbench, R Studio, Jupyter Notebook
 - **Statistics**: Hypothesis testing (p-values, CIs, power calculations, effect sizes), descriptives, research design
 - **Data Vis/Dashboards**: Tableau, Power BI, R Shiny
