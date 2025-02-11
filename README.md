@@ -16,7 +16,7 @@ I'm a full stack AI developer, data scientist, and project manager with a backgr
 - **Replicability & Full Stack Integration**: Docker, Kubernetes
 
 ## Projects
-- [**AB Test Case**](https://github.com/HNStaggs/AB-Test-Case) - End-to-end study methodology and recommendations from user engagement data from an e-commerce web application.
+- [**AB Test Case**](https://github.com/HNStaggs/AB-Test-Case) - End-to-end study methodology and recommendations from user engagement data from an online business.
 - [**RAG Codebase ChatBot**](https://github.com/HNStaggs/CodeHelperRAG) - An offline generative agent offering code suggestions based on in-house documentation using vector retrieval.
 - [**Translator App**](https://github.com/HNStaggs/Translate-Demo) - Streamlit deployed app allowing document upload, auto translation, and download in ten languages.
 - [**Patient Risk App**](https://github.com/teamlunarlanding/Pharma-Drug-Surveillance) - Deployed random forest model in an application that predicts patient risk of adverse outcomes from pharmaceutical drugs.
