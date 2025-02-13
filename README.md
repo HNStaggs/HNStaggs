@@ -1,7 +1,7 @@
 # Hi there, I'm Halee Staggs, welcome to my Git 👋
 
 ## About Me
-I'm a full stack AI developer, data scientist, and project manager with a background in applied human behavior research. I enjoy asking creative questions and using data to solve problems and reveal insights. I find it intriguing that human behavior and processes can be explained with algorithms. I am currently passionate about designing impactful, useful AI solutions for people and enterprises. 
+I'm a full stack AI developer, data scientist, and project manager with a background in applied human behavior research. I enjoy asking creative questions and using data to solve problems and reveal insights. I find it intriguing that human behavior and processes can be explained with algorithms. I am currently passionate about designing impactful, intuitive AI solutions for every day people and enterprises.
 
 ## Skills
 - **Programming Languages**: Python, R, SQL
