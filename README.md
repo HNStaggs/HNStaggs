@@ -1,22 +1,32 @@
 # Hi there, I'm Halee Staggs, welcome to my Git 👋
 
 ## About Me
-I'm a full stack AI developer, data scientist, and project manager with a background in applied human behavior research. I enjoy asking creative questions and using data to solve problems and reveal insights. I find it intriguing that human behavior and processes can be explained with algorithms. I am currently passionate about designing impactful, intuitive AI solutions for every day people and enterprises.
+I'm a full stack AI developer, data scientist, and product manager. I am currently passionate about designing impactful, intuitive agentic AI solutions for every day people and enterprises.
 
-## Skills
-- **Programming Languages**: Python, R, SQL
-- **AI/ML Techniques**: NLP, LLMs/SLMs, Fine Tuning, RAG, VAE, Recommenders, Supervised and Unsupervised methods
-- **Libraries**: PyTorch, Keras, TensorFlow, ScikitLearn, SQAlchemy, NLTK, Tidyverse, Caret, Car, nnet, e1071   
-- **Tools**: Git, VS Code, MySQL Workbench, R Studio, Jupyter Notebook
-- **Statistics**: Hypothesis testing (p-values, CIs, power calculations, effect sizes), descriptives, research design
-- **Data Vis/Dashboards**: Tableau, Power BI, R Shiny
-- **Front End**: Streamlit, PyQt5
+## AI & ML Stack
+- **Programming Languages**: Python, SQL
+- **AI/ML Techniques**: NLP, LLMs/SLMs, Fine Tuning, RAG, small data augmentation/synthetic data creation, Supervised and Unsupervised methods, performance evaluation metrics
+- **Agent Capabilities**: semantic search/retrieval, web scraping, multi-agent coordination, model memory, database CRUD, notification system, document processing
+- **Python Libraries**: LangChain/LangGraph, AutoGen, Redis, CrewAI, Peft, PyTorch, TensorFlow, ScikitLearn, SQAlchemy, Transformers, NLTK, boto3, 
+- **Front End**: Streamlit
 - **Cloud**: AWS, Azure
-- **Back End**: Database Engineering, APIs
-- **Replicability & Full Stack Integration**: Docker, Kubernetes
+- **Back End**: Database Engineering - vector databases, postgresql, APIs
+- **Replicability, Deployment, CI/CD**: Docker, Kubernetes
+- **Dev Tools**: Git, VS Code, AI-assisted coding development
+- **Governance**: Guardrails, human-in-the-lopp, response verification
+- **Observability**: DataDog
+- **Product Plans**: Propose end-to-end AI application roll out including front/back end architecture, cost models, system peformance, agile team roles
+
+## Stat Stack
+- **Languages**: R, SQL
+- **R Packages**: Tidyverse, Caret, Car, nnet, e1071   
+- **Statistics**: Hypothesis testing (p-values, CIs, power calculations, effect sizes), descriptives, research design, AB testing
+- **Dashboards**: Tableau, Power BI, Lookr
+
 
 ## Projects
-- [**AB Test Case**](https://github.com/HNStaggs/AB-Test-Case) - End-to-end study methodology and recommendations from user engagement data from an online business.
+- [**ASL Agent**](link) - Computer vision model fine-tuned
+- [**AB Test Case**](https://github.com/HNStaggs/AB-Test-Case) - Study methodology and recommendations from user engagement data from an online business.
 - [**RAG Codebase ChatBot**](https://github.com/HNStaggs/CodeHelperRAG) - An offline generative agent offering code suggestions based on in-house documentation using vector retrieval.
 - [**Translator App**](https://github.com/HNStaggs/Translate-Demo) - Streamlit deployed app allowing document upload, auto translation, and download in ten languages.
 - [**Patient Risk App**](https://github.com/teamlunarlanding/Pharma-Drug-Surveillance) - Deployed random forest model in an application that predicts patient risk of adverse outcomes from pharmaceutical drugs.
