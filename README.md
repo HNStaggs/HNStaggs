@@ -6,15 +6,16 @@ I'm a full stack AI developer, data scientist, and product manager. I am current
 ## AI & ML Stack
 - **Programming Languages**: Python, SQL
 - **AI/ML Techniques**: NLP, LLMs/SLMs, Fine Tuning, RAG, small data augmentation/synthetic data creation, Supervised and Unsupervised methods, performance evaluation metrics
-- **Agent Capabilities**: semantic search/retrieval, web scraping, multi-agent coordination, model memory, database CRUD, notification system, document processing
-- **Python Libraries**: LangChain/LangGraph, AutoGen, Redis, CrewAI, Peft, PyTorch, TensorFlow, ScikitLearn, SQAlchemy, Transformers, NLTK, boto3, 
+- **Agent Capabilities**: semantic search/retrieval, web scraping, multi-agent coordination, model memory, database CRUD, notification system, document processing, business analytics 
+- **Python Libraries**: LangChain/LangGraph, AutoGen, Redis, CrewAI, Peft, Semantic Kernel, Chainlit, SwarmAgent, PyTorch, TensorFlow, ScikitLearn, SQAlchemy, Transformers, NLTK, boto3, 
 - **Front End**: Streamlit
 - **Cloud**: AWS, Azure
 - **Back End**: Database Engineering - vector databases, postgresql, APIs
-- **Replicability, Deployment, CI/CD**: Docker, Kubernetes
+- **Replicability, Deployment, CI/CD**: Docker, Kubernetes, Terraform
 - **Dev Tools**: Git, VS Code, AI-assisted coding development
-- **Governance**: Guardrails, human-in-the-lopp, response verification
+- **Governance**: Guardrails, human-in-the-lopp, response verification, prompt tuning
 - **Observability**: DataDog
+- **User Research**: usability testing, 
 - **Product Plans**: Propose end-to-end AI application roll out including front/back end architecture, cost models, system peformance, agile team roles
 
 ## Stat Stack
@@ -25,11 +26,12 @@ I'm a full stack AI developer, data scientist, and product manager. I am current
 
 
 ## Projects
-- [**ASL Agent**](link) - Computer vision model fine-tuned
-- [**AB Test Case**](https://github.com/HNStaggs/AB-Test-Case) - Study methodology and recommendations from user engagement data from an online business.
+- [**Analysis Agent**](link) - Data analytics, graphs, and market research agent for a political public profiling company. Deployed in AWS.
+- [**American Sign Language Agent**](link) - Computer vision model fine-tuned for ASL-to-text. Deployed in Azure.
 - [**RAG Codebase ChatBot**](https://github.com/HNStaggs/CodeHelperRAG) - An offline generative agent offering code suggestions based on in-house documentation using vector retrieval.
 - [**Translator App**](https://github.com/HNStaggs/Translate-Demo) - Streamlit deployed app allowing document upload, auto translation, and download in ten languages.
 - [**Patient Risk App**](https://github.com/teamlunarlanding/Pharma-Drug-Surveillance) - Deployed random forest model in an application that predicts patient risk of adverse outcomes from pharmaceutical drugs.
+- [**AB Test Case**](https://github.com/HNStaggs/AB-Test-Case) - Study methodology and recommendations from user engagement data from an online business.
 
 ## Education
 - **Master of Science** in Applied Data Science, University of San Diego
