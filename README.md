@@ -10,12 +10,12 @@ I'm a full stack AI developer, data scientist, and product manager. I am current
 - **Python Libraries**: LangChain/LangGraph, AutoGen, Redis, CrewAI, Peft, Semantic Kernel, Chainlit, SwarmAgent, PyTorch, TensorFlow, ScikitLearn, SQAlchemy, Transformers, NLTK, boto3, 
 - **Front End**: Streamlit
 - **Cloud**: AWS, Azure
-- **Back End**: Database Engineering - vector databases, postgresql, APIs
+- **Back End**: Database Engineering - vector databases, SQL flavors, APIs
 - **Replicability, Deployment, CI/CD**: Docker, Kubernetes, Terraform
 - **Dev Tools**: Git, VS Code, AI-assisted coding development
 - **Governance**: Guardrails, human-in-the-lopp, response verification, prompt tuning
 - **Observability**: DataDog
-- **User Research**: usability testing, 
+- **User Research**: Dscout/Prolific - usability testing, qualitative interviews
 - **Product Plans**: Propose end-to-end AI application roll out including front/back end architecture, cost models, system peformance, agile team roles
 
 ## Stat Stack
