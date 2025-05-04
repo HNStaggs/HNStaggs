@@ -32,7 +32,8 @@ I'm a full stack AI developer, data scientist, and product manager. I am current
 - [**RAG Codebase ChatBot**](https://github.com/HNStaggs/CodeHelperRAG) - An offline generative agent offering code suggestions based on in-house documentation using vector retrieval.
 - [**Machine Translator App**](https://github.com/HNStaggs/Translate-Demo) - Streamlit deployed app allowing document upload, auto translation, and download in ten languages.
 - [**Drug Reaction Classification App**](https://github.com/teamlunarlanding/Pharma-Drug-Surveillance) - Deployed random forest model in a streamlit application that predicts patient risk of adverse outcomes from pharmaceutical drugs.
-- [**Long COVID Diagnosis Classification, Cognitive Impairment Regression, and Longitudinal Outcome Prediction**](https://github.com/HNStaggs/long-covid-study) - 
+- [**Long COVID Diagnosis Classification, Cognitive Impairment Regression, and Longitudinal Outcome Prediction**](https://github.com/HNStaggs/long-covid-study) -
+- [**Participant Drop Out Classification**](https://github.com/HNStaggs/participant-dropout-classification) - Decision tree model trained in R to identify characteristics of participants who drop out of online research prior to completing all study activities. 
 
 ## Education
 - **Master of Science** in Applied Data Science, University of San Diego
