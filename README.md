@@ -27,7 +27,7 @@ I'm a full stack AI developer, data scientist, and product manager. I am current
 - **Platforms**: Tableau, Power BI, Lookr
 
 ## Projects
-- [**Personnel Analysis Agent**](link) - Data analytics and visualization multi-agent that creates data products based on personnel metrics. Deployed in AWS.
+- [**Personnel Analysis Agent**](link) - Data analytics and visualization multi-agent that creates data products based on personnel metrics. Deployed in Azure.
 - [**Document Extraction and Report Generation Agent**](link) - Multi-agent that extracts insights from a variety of sources to produce a comprehensive report. Deployed in Azure. 
 - [**RAG Codebase ChatBot**](https://github.com/HNStaggs/CodeHelperRAG) - An offline generative agent offering code suggestions based on in-house documentation using vector retrieval.
 - [**Machine Translator App**](https://github.com/HNStaggs/Translate-Demo) - Streamlit deployed app allowing document upload, auto translation, and download in ten languages.
