@@ -20,7 +20,7 @@ I'm a full stack AI developer and data scientist. I am currently passionate abou
 
 ## Stat Stack
 - **Languages**: R
-- **R Packages**: Tidyverse, Caret, Car, nnet, e1071   
+- **R Packages**: Tidyverse, Caret, Car, nnet, e1071, ggplot2, stats, lmer   
 - **Statistics**: Hypothesis testing (p-values, CIs, power calculations, effect sizes), descriptives, research design
 
 ## Dashboarding
