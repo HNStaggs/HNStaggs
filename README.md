@@ -1,14 +1,14 @@
 # Hi there, I'm Halee Staggs, welcome to my Git 👋
 
 ## About Me
-I'm a full stack AI developer and data scientist. I am currently passionate about designing impactful, intuitive AI and ML solutions for every day people and enterprises.
+I'm an AI developer and data scientist. I am currently passionate about designing impactful, intuitive AI and ML solutions for every day people and enterprises.
 
 ## AI & ML Stack
 - **Programming Languages**: Python, SQL
 - **AI/ML Techniques**: NLP, LLMs/SLMs, Fine Tuning, RAG, small data augmentation/synthetic data creation, Supervised and Unsupervised methods, performance evaluation metrics
 - **Agent Skills**: semantic search/retrieval, web scraping, multi-agent coordination, model memory, database CRUD, notification system, document processing, business analytics 
 - **Python Libraries**: LangChain/LangGraph, AutoGen, CrewAI, Peft, Semantic Kernel, Chainlit, SwarmAgent, PyTorch, TensorFlow, ScikitLearn, Pandas, Numpy, SQAlchemy, Transformers, NLTK, fastapi 
-- **Front End**: Streamlit, React
+- **Front End/Demos**: Streamlit
 - **Cloud Development/Deployment**: Azure, AWS, DataBricks
 - **Back End**: SQL, APIs
 - **Replicability, Deployment, CI/CD**: Docker, Kubernetes, Terraform
