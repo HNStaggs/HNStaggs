@@ -9,7 +9,7 @@ I'm a full stack AI developer and data scientist. I am currently passionate abou
 - **Agent Skills**: semantic search/retrieval, web scraping, multi-agent coordination, model memory, database CRUD, notification system, document processing, business analytics 
 - **Python Libraries**: LangChain/LangGraph, AutoGen, Redis, CrewAI, Peft, Semantic Kernel, Chainlit, SwarmAgent, PyTorch, TensorFlow, ScikitLearn, SQAlchemy, Transformers, NLTK, boto3, fastapi 
 - **Front End**: Streamlit, React
-- **Cloud Deployment**: Azure, AWS
+- **Cloud Development/Deployment**: Azure, AWS
 - **Back End**: SQL/sqlite/postgresql/, APIs
 - **Replicability, Deployment, CI/CD**: Docker, Kubernetes, Terraform
 - **Dev Tools**: Git, VS Code, AI-assisted coding development
