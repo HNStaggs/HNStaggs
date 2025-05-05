@@ -7,7 +7,7 @@ I'm a full stack AI developer and data scientist. I am currently passionate abou
 - **Programming Languages**: Python, SQL
 - **AI/ML Techniques**: NLP, LLMs/SLMs, Fine Tuning, RAG, small data augmentation/synthetic data creation, Supervised and Unsupervised methods, performance evaluation metrics
 - **Agent Skills**: semantic search/retrieval, web scraping, multi-agent coordination, model memory, database CRUD, notification system, document processing, business analytics 
-- **Python Libraries**: LangChain/LangGraph, AutoGen, Redis, CrewAI, Peft, Semantic Kernel, Chainlit, SwarmAgent, PyTorch, TensorFlow, ScikitLearn, SQAlchemy, Transformers, NLTK, fastapi 
+- **Python Libraries**: LangChain/LangGraph, AutoGen, CrewAI, Peft, Semantic Kernel, Chainlit, SwarmAgent, PyTorch, TensorFlow, ScikitLearn, Pandas, Numpy, SQAlchemy, Transformers, NLTK, fastapi 
 - **Front End**: Streamlit, React
 - **Cloud Development/Deployment**: Azure, AWS, DataBricks
 - **Back End**: SQL, APIs
@@ -15,7 +15,6 @@ I'm a full stack AI developer and data scientist. I am currently passionate abou
 - **Dev Tools**: Git, VS Code, AI-assisted coding development
 - **AI Governance**: Guardrails, human-in-the-lopp, response verification, prompt tuning
 - **Observability**: Azure Monitor, DataDog
-- **User Research**: Dscout/Prolific - usability testing, qualitative interviews
 - **Product Plans**: Propose end-to-end AI application roll out including front/back end architecture, cost models, system peformance, agile team roles
 
 ## Stat Stack
@@ -24,7 +23,7 @@ I'm a full stack AI developer and data scientist. I am currently passionate abou
 - **Statistics**: Hypothesis testing (p-values, CIs, power calculations, effect sizes), descriptives, research design
 
 ## Dashboarding
-- **Platforms**: Tableau, Power BI, Lookr
+- **Platforms**: Tableau, Power BI
 
 ## Projects
 - [**Personnel Analysis Agent**](https://github.com/HNStaggs/Personnel-AI-Agent) - Data analytics and visualization multi-agent that creates data products based on personnel metrics. Deployed in Azure. 
