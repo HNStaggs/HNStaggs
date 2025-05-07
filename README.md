@@ -28,7 +28,7 @@ I'm an AI developer and data scientist. I am currently passionate about designin
 ## Projects
 
 ### LLM Cloud Applications
-- [**Personnel Analysis Agent - Azure**](https://github.com/HNStaggs/personnel-AI-agent) - Data analytics and visualization multi-agent that creates data products based on personnel metrics. Deployed in Azure. STAY TUNED - IN PROGRESS.  
+- [**Personnel Analysis Agent - Azure**](https://github.com/HNStaggs/personnel-analysis-AI-agent) - Data analytics and visualization multi-agent that creates data products based on personnel metrics. Deployed in Azure. STAY TUNED - IN PROGRESS.  
 - [**RAG ChatBot - Azure**](https://github.com/HNStaggs/rag-chat) - Azure deployed RAG grounded chat bot using vector retrieval for company documentation. 
 - [**Document Translation App - Azure**](https://github.com/HNStaggs/document-translation-AI) - Azure deployed app allowing document upload, auto translation, and download in ten languages. Maintains document structure.
 
