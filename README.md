@@ -27,7 +27,7 @@ I'm an AI developer and data scientist. I am currently passionate about designin
 
 ## Projects
 - [**Personnel Analysis Agent**](https://github.com/HNStaggs/Personnel-AI-Agent) - Data analytics and visualization multi-agent that creates data products based on personnel metrics. Deployed in Azure. STAY TUNED - IN PROGRESS.  
-- [**RAG Codebase ChatBot**](https://github.com/HNStaggs/repo) - Azure deployed RAG grounded chat bot using vector retrieval for company documentation. 
+- [**RAG ChatBot**](https://github.com/HNStaggs/repo) - Azure deployed RAG grounded chat bot using vector retrieval for company documentation. 
 - [**Document Translation App**](https://github.com/HNStaggs/repo) - Azure deployed app allowing document upload, auto translation, and download in ten languages. Maintains document structure.
 - [**Adverse Drug Reactions ML Classification with NLP**](https://github.com/teamlunarlanding/repo) - Trained and deployed random forest model using Sagemaker in AWS. Model predicts patient risk of adverse outcomes from pharmaceutical drugs.
 - [**Clinical Trial Gender Gaps ML Classifiation with NLP**](https://github.com/HNStaggs/Clinical-Trial-Sex-Representation) - NLP project that used clinical trial descriptions in clinicaltrials.gov to classify sex (male/female). Model coefficients correspond to discrepancies between amount of clinical trials conducted in males vs. females. Trained and deployed in Azure. 
