@@ -26,13 +26,21 @@ I'm an AI developer and data scientist. I am currently passionate about designin
 - **Platforms**: Tableau, Power BI
 
 ## Projects
-- [**Personnel Analysis Agent**](https://github.com/HNStaggs/Personnel-AI-Agent) - Data analytics and visualization multi-agent that creates data products based on personnel metrics. Deployed in Azure. STAY TUNED - IN PROGRESS.  
-- [**RAG ChatBot**](https://github.com/HNStaggs/repo) - Azure deployed RAG grounded chat bot using vector retrieval for company documentation. 
-- [**Document Translation App**](https://github.com/HNStaggs/repo) - Azure deployed app allowing document upload, auto translation, and download in ten languages. Maintains document structure.
-- [**Adverse Drug Reactions ML Classification with NLP**](https://github.com/teamlunarlanding/repo) - Trained and deployed random forest model using Sagemaker in AWS. Model predicts patient risk of adverse outcomes from pharmaceutical drugs.
-- [**Clinical Trial Gender Gaps ML Classifiation with NLP**](https://github.com/HNStaggs/Clinical-Trial-Sex-Representation) - NLP project that used clinical trial descriptions in clinicaltrials.gov to classify sex (male/female). Model coefficients correspond to discrepancies between amount of clinical trials conducted in males vs. females. Trained and deployed in Azure. 
-- [**Long COVID Cognitive Impairment Regression and Prognosis Outcome Prediction**](https://github.com/HNStaggs/long-COVID) - A variety of ML models related to aspects of long term symptom profiles in COVID survivors. Trained in Sagemaker in AWS. 
-- [**Participant Drop Out Classification**](https://github.com/HNStaggs/participant-dropout-classification) - Decision tree model trained in R to identify characteristics of participants who drop out of online research prior to completing all study activities.
+
+### LLM Cloud Applications
+- [**Personnel Analysis Agent - Azure**](https://github.com/HNStaggs/personnel-AI-agent) - Data analytics and visualization multi-agent that creates data products based on personnel metrics. Deployed in Azure. STAY TUNED - IN PROGRESS.  
+- [**RAG ChatBot - Azure**](https://github.com/HNStaggs/rag-chat) - Azure deployed RAG grounded chat bot using vector retrieval for company documentation. 
+- [**Document Translation App - Azure**](https://github.com/HNStaggs/document-translation-AI) - Azure deployed app allowing document upload, auto translation, and download in ten languages. Maintains document structure.
+
+### ML Models
+- [**Adverse Drug Reactions ML Classification with NLP - AWS**](https://github.com/HNStaggs/adverse-drug-reaction-ml-nlp) - Trained and deployed random forest model using Sagemaker in AWS. Model predicts patient risk of adverse outcomes from pharmaceutical drugs.
+- [**Clinical Trial Gender Gaps ML Classifiation with NLP - Azure**](https://github.com/HNStaggs/clinical-trial-sex-representation-ml-nlp) - NLP project that used clinical trial descriptions in clinicaltrials.gov to classify sex (male/female). Model coefficients correspond to discrepancies between amount of clinical trials conducted in males vs. females. Trained and deployed in Azure. 
+- [**Long COVID Cognitive Impairment Regression and Prognosis Outcome Prediction - AWS**](https://github.com/HNStaggs/long-COVID-ml) - A variety of ML models related to aspects of long term symptom profiles in COVID survivors. Trained in Sagemaker via S3 data storage in AWS and deployed to Streamlit app.
+
+### Statistics & Explanatory Models
+- [**Clinical Trial Analysis**](https://github.com/HNStaggs/rct-statistics) - Primary aims analysis plan of a randomized clinical trial in R. Synthetic data created with VAE to protect original data.    
+- [**Participant Drop Out Classification**](https://github.com/HNStaggs/participant-dropout-classification) - Explanatory decision tree model trained in R to identify characteristics of participants who drop out of online research prior to completing all study activities.
+- [**AB Test**](https://github.com/HNStaggs/AB-Test-Case) - Statistical analysis of differences in sale conversion rate and time on website between two website versions - original and optimized. Project details methodology and recommendations.  
 
 ## Education
 - **Master of Science** in Applied Data Science, University of San Diego
@@ -53,7 +61,6 @@ I'm an AI developer and data scientist. I am currently passionate about designin
 
 ## Let's Connect on LinkedIn!
 Feel free to reach out if you want to collaborate on a project or just want to connect!
-
 ---
 
 ## *"You cannot get clean in a dirty shower."* 
