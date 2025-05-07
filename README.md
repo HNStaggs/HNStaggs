@@ -10,7 +10,7 @@ I'm an AI developer and data scientist. I am currently passionate about designin
 - **Python Libraries**: LangChain/LangGraph, AutoGen, CrewAI, Peft, Semantic Kernel, Chainlit, SwarmAgent, PyTorch, TensorFlow, ScikitLearn, Pandas, Numpy, SQAlchemy, Transformers, NLTK, fastapi 
 - **Front End/Demos**: Streamlit
 - **Cloud Development/Deployment**: Azure, AWS, DataBricks
-- **Back End**: SQL, APIs
+- **Back End**: Data engineering, APIs
 - **Replicability, Deployment, CI/CD**: Docker, Kubernetes, Terraform
 - **Dev Tools**: Git, VS Code, AI-assisted coding development
 - **AI Governance**: Guardrails, human-in-the-lopp, response verification, prompt tuning
