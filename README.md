@@ -22,8 +22,8 @@ I'm an AI developer and data scientist. I am currently passionate about designin
 - **R Packages**: Tidyverse, Caret, Car, nnet, e1071, ggplot2, stats, lmer, randomForest  
 - **Statistics**: Hypothesis testing (p-values, CIs, power calculations, effect sizes), descriptives, research design, sampling/weighting
 
-## Dashboarding
-- **Platforms**: Tableau, Power BI
+## Dashboarding & Design Tools
+- **Platforms**: Tableau, Power BI, Figma, Mermaid
 
 ## Projects
 
