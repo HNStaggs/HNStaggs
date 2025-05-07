@@ -6,7 +6,7 @@ I'm an AI developer and data scientist. I am currently passionate about designin
 ## AI & ML Stack
 - **Programming Languages**: Python, SQL
 - **AI/ML Techniques**: NLP, LLMs/SLMs, Fine Tuning, RAG, small data augmentation/synthetic data creation, Supervised and Unsupervised methods, performance evaluation metrics
-- **Agent Skills**: semantic search/retrieval, web scraping, multi-agent coordination, model memory, database CRUD, notification system, document processing, business analytics 
+- **Agent Skills**: semantic search/retrieval, web scraping/API data requests, multi-agent coordination/MCP, model memory, database CRUD, notification system, document processing, business analytics 
 - **Python Libraries**: LangChain/LangGraph, AutoGen, CrewAI, Peft, Semantic Kernel, Chainlit, SwarmAgent, PyTorch, TensorFlow, ScikitLearn, Pandas, Numpy, SQAlchemy, Transformers, NLTK, fastapi 
 - **Front End/Demos**: Streamlit
 - **Cloud Development/Deployment**: Azure, AWS, DataBricks
@@ -19,20 +19,20 @@ I'm an AI developer and data scientist. I am currently passionate about designin
 
 ## Stat Stack
 - **Languages**: R
-- **R Packages**: Tidyverse, Caret, Car, nnet, e1071, ggplot2, stats, lmer   
-- **Statistics**: Hypothesis testing (p-values, CIs, power calculations, effect sizes), descriptives, research design
+- **R Packages**: Tidyverse, Caret, Car, nnet, e1071, ggplot2, stats, lmer, randomForest  
+- **Statistics**: Hypothesis testing (p-values, CIs, power calculations, effect sizes), descriptives, research design, sampling/weighting
 
 ## Dashboarding
 - **Platforms**: Tableau, Power BI
 
 ## Projects
-- [**Personnel Analysis Agent**](https://github.com/HNStaggs/Personnel-AI-Agent) - Data analytics and visualization multi-agent that creates data products based on personnel metrics. Deployed in Azure. 
-- [**RAG Codebase ChatBot**](https://github.com/HNStaggs/CodeHelperRAG) - An offline generative agent offering code suggestions based on in-house documentation using vector retrieval.
-- [**Machine Translator App**](https://github.com/HNStaggs/Translate-Demo) - Streamlit deployed app allowing document upload, auto translation, and download in ten languages.
-- [**Drug Reaction Classification App**](https://github.com/teamlunarlanding/Pharma-Drug-Surveillance) - Deployed random forest model in a streamlit application that predicts patient risk of adverse outcomes from pharmaceutical drugs.
-- [**Clinical Trial Gender Gaps**](https://github.com/HNStaggs/Clinical-Trial-Gender-Gaps) - NLP project that used clinical trial descriptions in clinicaltrials.gov to classify sex (male/female). Model coefficients correspond to discrepancies between amount of clinical trials conducted in males vs. females.
-- [**Long COVID Diagnosis Classification, Cognitive Impairment Regression, and Longitudinal Outcome Prediction**](https://github.com/HNStaggs/long-COVID) - A variety of ML models related to aspects of long term symptom profiles in COVID survivors.
-- [**Participant Drop Out Classification**](https://github.com/HNStaggs/participant-dropout-classification) - Decision tree model trained in R to identify characteristics of participants who drop out of online research prior to completing all study activities. 
+- [**Personnel Analysis Agent**](https://github.com/HNStaggs/Personnel-AI-Agent) - Data analytics and visualization multi-agent that creates data products based on personnel metrics. Deployed in Azure. STAY TUNED - IN PROGRESS.  
+- [**RAG Codebase ChatBot**](https://github.com/HNStaggs/repo) - Azure deployed RAG grounded chat bot using vector retrieval for company documentation. 
+- [**Document Translation App**](https://github.com/HNStaggs/repo) - Azure deployed app allowing document upload, auto translation, and download in ten languages. Maintains document structure.
+- [**Adverse Drug Reactions ML Classification with NLP**](https://github.com/teamlunarlanding/repo) - Trained and deployed random forest model using Sagemaker in AWS. Model predicts patient risk of adverse outcomes from pharmaceutical drugs.
+- [**Clinical Trial Gender Gaps ML Classifiation with NLP**](https://github.com/HNStaggs/Clinical-Trial-Sex-Representation) - NLP project that used clinical trial descriptions in clinicaltrials.gov to classify sex (male/female). Model coefficients correspond to discrepancies between amount of clinical trials conducted in males vs. females. Trained and deployed in Azure. 
+- [**Long COVID Cognitive Impairment Regression and Prognosis Outcome Prediction**](https://github.com/HNStaggs/long-COVID) - A variety of ML models related to aspects of long term symptom profiles in COVID survivors. Trained in Sagemaker in AWS. 
+- [**Participant Drop Out Classification**](https://github.com/HNStaggs/participant-dropout-classification) - Decision tree model trained in R to identify characteristics of participants who drop out of online research prior to completing all study activities.
 
 ## Education
 - **Master of Science** in Applied Data Science, University of San Diego
@@ -40,9 +40,10 @@ I'm an AI developer and data scientist. I am currently passionate about designin
 - **Associate of Arts** in Social and Behavioral Sciences, Moorpark College
 
 ## Certifications
-- **Azure AI Engineer Associate** In Progress
-- **Azure Machine Learning Associate** In Progress
-- **AWS Machine Learning Specialty** In Progress
+- **Azure AI Engineer Associate** In Progress (May 2025)
+- **Azure Machine Learning Associate** In Progress (May 2025)
+- **AWS Machine Learning Engineer Associate** In Progress (June 2025)
+- **AWS AI Practitioner Foundational** In Progress (June 2025)
 
 ## Interests
 - Weight lifting, traveling, painting, sewing, spending time with my dog, Luna :)
