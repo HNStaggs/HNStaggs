@@ -7,8 +7,8 @@ I'm an AI developer and data scientist. I am currently passionate about designin
 - **Programming Languages**: Python, SQL
 - **AI/ML Techniques**: NLP, LLMs/SLMs, Fine Tuning, RAG, small data augmentation/synthetic data creation, Supervised and Unsupervised methods, performance evaluation metrics
 - **Agent Skills**: semantic search/retrieval, web scraping/API data requests, multi-agent coordination/MCP, model memory, database CRUD, notification system, document processing, business analytics 
-- **Python Libraries**: LangChain/LangGraph, AutoGen, CrewAI, Peft, Semantic Kernel, Chainlit, SwarmAgent, PyTorch, TensorFlow, ScikitLearn, Pandas, Numpy, SQAlchemy, Transformers, NLTK, fastapi 
-- **Front End/Demos**: Streamlit
+- **Python Libraries**: LangChain/LangGraph/LangSmith, AutoGen, CrewAI, Peft, Semantic Kernel, Chainlit, SwarmAgent, PyTorch, TensorFlow, ScikitLearn, Pandas, Numpy, SQAlchemy, Transformers, NLTK, fastapi 
+- **Front End/Demos**: Streamlit, Chainlit
 - **Cloud Development/Deployment**: Azure, AWS, DataBricks
 - **Back End**: Data engineering, APIs
 - **Replicability, Deployment, CI/CD**: Docker, Kubernetes, Terraform
@@ -38,7 +38,7 @@ I'm an AI developer and data scientist. I am currently passionate about designin
 - [**Long COVID Cognitive Impairment Regression and Prognosis Outcome Prediction - AWS**](https://github.com/HNStaggs/long-COVID-ml) - A variety of ML models related to aspects of long term symptom profiles in COVID survivors. Trained in Sagemaker via S3 data storage in AWS and deployed to Streamlit app.
 
 ### Statistics & Explanatory Models
-- [**Clinical Trial Analysis**](https://github.com/HNStaggs/rct-statistics) - Primary aims analysis plan of a randomized clinical trial in R. Synthetic data created with VAE to protect original data.    
+- [**Clinical Trial Analysis**](https://github.com/HNStaggs/rct-statistics) - Primary aims analysis plan of a randomized clinical trial coded in R.   
 - [**Participant Drop Out Classification**](https://github.com/HNStaggs/participant-dropout-classification) - Explanatory decision tree model trained in R to identify characteristics of participants who drop out of online research prior to completing all study activities.
 - [**AB Test**](https://github.com/HNStaggs/AB-Test-Case) - Statistical analysis of differences in sale conversion rate and time on website between two website versions - original and optimized. Project details methodology and recommendations.  
 
