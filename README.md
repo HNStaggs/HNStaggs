@@ -40,7 +40,7 @@ I'm an AI developer and data scientist. I am currently passionate about designin
 ### Statistics & Explanatory Models
 - [**Clinical Trial Analysis**](https://github.com/HNStaggs/rct-statistics) - Primary aims analysis plan of a randomized clinical trial coded in R.   
 - [**Participant Drop Out Classification**](https://github.com/HNStaggs/participant-dropout-classification) - Explanatory decision tree model trained in R to identify characteristics of participants who drop out of online research prior to completing all study activities.
-- [**AB Test**](https://github.com/HNStaggs/AB-Test-Case) - Statistical analysis of differences in sale conversion rate and time on website between two website versions - original and optimized. Project details methodology and recommendations.  
+- [**AB Test**](https://github.com/HNStaggs/AB-Test-Case) - Statistical analysis using Python. Differences in sale conversion rate and time on website between two website versions - original and optimized. Project details methodology and recommendations.  
 
 ## Education
 - **Master of Science** in Applied Data Science, University of San Diego
