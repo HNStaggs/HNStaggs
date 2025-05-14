@@ -34,8 +34,8 @@ I'm an AI developer and data scientist. I am currently passionate about designin
 
 ### ML Models
 - [**Adverse Drug Reactions ML Classification with NLP - AWS**](https://github.com/HNStaggs/adverse-drug-reaction-ml-nlp) - Trained and deployed random forest model using Sagemaker in AWS. Model predicts patient risk of adverse outcomes from pharmaceutical drugs.
-- [**Clinical Trial Gender Gaps ML Classifiation with NLP - Azure**](https://github.com/HNStaggs/clinical-trial-sex-representation-ml-nlp) - NLP project that used clinical trial descriptions in clinicaltrials.gov to classify sex (male/female). Model coefficients correspond to discrepancies between amount of clinical trials conducted in males vs. females. Trained and deployed in Azure. 
-- [**Long COVID Cognitive Impairment Regression and Prognosis Outcome Prediction - AWS**](https://github.com/HNStaggs/long-COVID-ml) - A variety of ML models related to aspects of long term symptom profiles in COVID survivors. Trained in Sagemaker via S3 data storage in AWS and deployed to Streamlit app.
+- [**Clinical Trial Gender Gaps ML Classifiation with NLP - AWS**](https://github.com/HNStaggs/clinical-trial-sex-representation-ml-nlp) - NLP project that used clinical trial descriptions in clinicaltrials.gov to classify sex (male/female). Model coefficients correspond to discrepancies between amount of clinical trials conducted in males vs. females. Trained and deployed in Azure. 
+- [**Long COVID Cognitive Impairment Regression and Prognosis Outcome Prediction - Azure**](https://github.com/HNStaggs/long-COVID-ml) - A variety of ML models related to aspects of long term symptom profiles in COVID survivors. Trained in Sagemaker via S3 data storage in AWS and deployed to Streamlit app.
 
 ### Statistics & Explanatory Models
 - [**Clinical Trial Analysis**](https://github.com/HNStaggs/rct-statistics) - Primary aims analysis plan of a randomized clinical trial coded in R.   
