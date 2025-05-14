@@ -7,7 +7,7 @@ I'm an AI developer and data scientist. I am currently passionate about designin
 - **Programming Languages**: Python, SQL
 - **AI/ML Techniques**: NLP, LLMs/SLMs, Fine Tuning, RAG, small data augmentation/synthetic data creation, Supervised and Unsupervised methods, performance evaluation metrics
 - **Agent Skills**: semantic search/retrieval, web scraping/API data requests, multi-agent coordination/MCP, model memory, database CRUD, notification system, document processing, business analytics 
-- **Python Libraries**: LangChain/LangGraph/LangSmith, AutoGen, CrewAI, Peft, Semantic Kernel, Chainlit, SwarmAgent, PyTorch, TensorFlow, ScikitLearn, Pandas, Numpy, SQAlchemy, Transformers, NLTK, fastapi 
+- **Python Libraries**: LangChain/LangGraph/LangSmith, AutoGen, CrewAI, Peft, Semantic Kernel, Chainlit, SwarmAgent, PyTorch, TensorFlow, ScikitLearn, Pandas, Numpy, matplotlib, seaborn, SQAlchemy, Transformers, NLTK, fastapi 
 - **Front End/Demos**: Streamlit, Chainlit
 - **Cloud Development/Deployment**: Azure, AWS, DataBricks
 - **Back End**: Data engineering, APIs
