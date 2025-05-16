@@ -28,9 +28,8 @@ I'm an AI developer and data scientist. I am currently passionate about designin
 ## Projects
 
 ### LLM Cloud Applications
-- [**Personnel Analysis Agent - Azure**](https://github.com/HNStaggs/multi-tool-personnel-analyst-agent) - Data analytics and visualization multi-agent that creates data products based on personnel metrics. Deployed in Azure.
-- [**RAG ChatBot - Azure**](https://github.com/HNStaggs/rag-chat) - Azure deployed RAG grounded chat bot using vector retrieval for company documentation. 
-- [**Document Translation App - Azure**](https://github.com/HNStaggs/document-translation-AI) - Azure deployed app allowing document upload, auto translation, and download in ten languages. Maintains document structure.
+- [**Personnel Analysis Agent - Azure**](https://github.com/HNStaggs/multi-tool-personnel-analyst-agent) - Data analytics and visualization multi-agent that creates data products based on personnel metrics. Deployed in Azure. IN PROGRESS.
+- [**RAG ChatBot**](https://github.com/HNStaggs/rag-chat) - Claude integrated chat application using RAG to provide grounded responses based on literature review documents. 
 
 ### ML Models
 - [**Adverse Drug Reactions ML Classification with NLP**](https://github.com/teamlunarlanding/Pharma-Drug-Surveillance) - Trained and deployed random forest model in Streamlit. Dashboard in PowerBI. Model classifies patient risk of adverse outcomes from pharmaceutical drugs.
