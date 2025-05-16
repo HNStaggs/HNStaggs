@@ -27,7 +27,7 @@ I'm an AI developer and data scientist. I am currently passionate about designin
 
 ## Projects
 
-### LLM Cloud Applications
+### LLM Applications
 - [**Personnel Analysis Agent - Azure**](https://github.com/HNStaggs/multi-tool-personnel-analyst-agent) - Data analytics and visualization multi-agent that creates data products based on personnel metrics. Deployed in Azure. IN PROGRESS.
 - [**RAG ChatBot**](https://github.com/HNStaggs/rag-chat) - Claude integrated chat application using RAG to provide grounded responses based on literature review documents. 
 
