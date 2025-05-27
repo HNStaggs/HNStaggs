@@ -12,7 +12,7 @@ I'm an AI developer and data scientist. I am currently passionate about designin
 - **Cloud Development/Deployment**: Azure, AWS, DataBricks
 - **Back End**: Data engineering, APIs
 - **Replicability, Deployment, CI/CD**: Docker, Kubernetes
-- **Dev Tools**: Git, VS Code, AI-assisted coding development
+- **Dev Tools**: Git, VS Code, Cursor
 - **AI Governance**: Guardrails, human-in-the-lopp, response verification, prompt tuning, ethics
 - **Observability**: Azure Monitor, DataDog
 - **Product Plans**: Propose end-to-end AI application roll out including front/back end architecture, cost models, system peformance, agile team roles
