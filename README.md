@@ -47,8 +47,8 @@ I'm an AI developer and data scientist. I am currently passionate about designin
 - **Associate of Arts** in Social and Behavioral Sciences, Moorpark College
 
 ## Certifications
-- **Azure AI Engineer Associate** In Progress (May 2025)
-- **Azure Machine Learning Associate** In Progress (May 2025)
+- **Azure AI Engineer Associate** Expires May 2026 Credential # BE9E6E0A38653B82
+- **Azure Machine Learning Associate** In Progress (June 2025)
 - **AWS Machine Learning Engineer Associate** In Progress (June 2025)
 - **AWS AI Practitioner Foundational** In Progress (June 2025)
 
