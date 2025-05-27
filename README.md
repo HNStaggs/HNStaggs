@@ -11,7 +11,7 @@ I'm an AI developer and data scientist. I am currently passionate about designin
 - **Front End/Demos**: Streamlit, Chainlit
 - **Cloud Development/Deployment**: Azure, AWS, DataBricks
 - **Back End**: Data engineering, APIs
-- **Replicability, Deployment, CI/CD**: Docker, Kubernetes
+- **Replicability, Deployment, CI/CD**: Docker, Kubernetes, GitHub Actions
 - **Dev Tools**: Git, VS Code, Cursor
 - **AI Governance**: Guardrails, human-in-the-lopp, response verification, prompt tuning, ethics
 - **Observability**: Azure Monitor, DataDog
