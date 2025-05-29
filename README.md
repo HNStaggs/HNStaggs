@@ -1,7 +1,7 @@
 # Hi there, I'm Halee Staggs, welcome to my Git 👋
 
 ## About Me
-I'm an AI developer and data scientist. I am currently passionate about designing impactful, intuitive AI and ML solutions for every day people and enterprises.
+I'm an AI developer and data scientist. I am currently passionate about designing complex agentic AI applications for enterprises.
 
 ## AI & ML Stack
 - **Languages**: Python, SQL
