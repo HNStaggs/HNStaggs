@@ -48,7 +48,7 @@ I'm an AI developer and data scientist. I am currently passionate about designin
 
 ## Certifications
 - **Azure AI Engineer Associate** Expires May 2026 Credential # BE9E6E0A38653B82
-- **Azure Machine Learning Associate** In Progress (June 2025)
+- **Azure Data Science Associate** In Progress (June 2025)
 - **AWS Machine Learning Engineer Associate** In Progress (June 2025)
 - **AWS AI Practitioner Foundational** In Progress (June 2025)
 
