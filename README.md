@@ -3,19 +3,22 @@
 ## About Me
 I'm an AI developer and data scientist. I am currently passionate about designing complex agentic AI applications for enterprises.
 
+## Platform Stack
+- **Languages**: Terraform, YAML
+- Databricks
+  
 ## AI & ML Stack
 - **Languages**: Python, SQL
-- **AI/ML Techniques**: NLP, LLMs/SLMs, Fine Tuning, prompt templates, RAG, small data augmentation/synthetic data creation, Supervised and Unsupervised methods, performance evaluation metrics
+- **AI/ML Techniques**: NLP, LLMs/SLMs, Fine Tuning, prompt templates, RAG, small data augmentation/synthetic data creation, Supervised and Unsupervised methods, performance evaluation metrics, LLM/agent evals in ML Flow
 - **Agent Skills**: semantic search/retrieval, web scraping/API data requests, multi-agent coordination/MCP, model memory, database CRUD, notification system, document processing, business analytics 
 - **Python Libraries**: LangChain/LangGraph/LangSmith, Peft, Semantic Kernel, Chainlit, SwarmAgent, PyTorch, TensorFlow, ScikitLearn, Pandas, Numpy, matplotlib, seaborn, SQAlchemy, Transformers, NLTK, fastapi, pinecone
-- **Front End/Demos**: Streamlit, Chainlit
-- **Cloud Development/Deployment**: Azure, AWS, DataBricks
-- **Back End**: Data engineering, APIs
-- **Replicability, Deployment, CI/CD**: Docker, GitHub Actions
-- **Dev Tools**: Git, VS Code, Cursor
-- **AI Governance**: Guardrails, human-in-the-lopp, response verification, prompt tuning, ethics
-- **Observability**: Azure Monitor, DataDog
-- **Product Plans**: Propose end-to-end AI application roll out including front/back end architecture, cost models, system peformance, agile team roles
+- **Front End/Demos**: Streamlit, Chainlit, React
+- **Cloud Development/Deployment**: Azure, AWS
+- **Back End**: FastAPI, Postgres
+- **Replicability, Deployment, CI/CD**: GitHub Actions, Azure DevOps Pipelines
+- **Dev Tools**: Git, VS Code, Cursor, Claude Code, Replit
+- **AI Governance and Eval**: content and cost guardrails, human-in-the-loop, output evals
+- **Product Plans**: Propose end-to-end AI application roll out including front/back end architecture, cost models, system performance, agile team roles
 
 ## Stat Stack
 - **Languages**: R
@@ -26,9 +29,6 @@ I'm an AI developer and data scientist. I am currently passionate about designin
 - **Platforms**: Lucid, Visio, Tableau, Power BI, Figma, Mermaid
 
 ## Projects
-
-### LLM Applications
-- [**Personnel Analysis Agent - Azure**](https://github.com/HNStaggs/Research-Chat-RAG) - IO psychology research and personnel data analytics visualization multi-agent that creates data products based on HR data. Deployed in Azure. Uses RAG, web searching, automated data visualization.
 
 ### ML Models
 - [**Adverse Drug Reactions ML Classification with NLP**](https://github.com/teamlunarlanding/Pharma-Drug-Surveillance) - Trained and deployed random forest model in Streamlit. Dashboard in PowerBI. Model classifies patient risk of adverse outcomes from pharmaceutical drugs.
